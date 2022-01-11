@@ -1,0 +1,10 @@
+C:\Users\cgibella\source\repos\HexaArchitecture\HexaArchitecture\HexaArchitecture.DomainApi\bin\Debug\netcoreapp3.1\HexaArchitecture.DomainApi.deps.json
+C:\Users\cgibella\source\repos\HexaArchitecture\HexaArchitecture\HexaArchitecture.DomainApi\bin\Debug\netcoreapp3.1\HexaArchitecture.DomainApi.dll
+C:\Users\cgibella\source\repos\HexaArchitecture\HexaArchitecture\HexaArchitecture.DomainApi\bin\Debug\netcoreapp3.1\HexaArchitecture.DomainApi.pdb
+C:\Users\cgibella\source\repos\HexaArchitecture\HexaArchitecture\HexaArchitecture.DomainApi\obj\Debug\netcoreapp3.1\HexaArchitecture.DomainApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgibella\source\repos\HexaArchitecture\HexaArchitecture\HexaArchitecture.DomainApi\obj\Debug\netcoreapp3.1\HexaArchitecture.DomainApi.AssemblyInfoInputs.cache
+C:\Users\cgibella\source\repos\HexaArchitecture\HexaArchitecture\HexaArchitecture.DomainApi\obj\Debug\netcoreapp3.1\HexaArchitecture.DomainApi.AssemblyInfo.cs
+C:\Users\cgibella\source\repos\HexaArchitecture\HexaArchitecture\HexaArchitecture.DomainApi\obj\Debug\netcoreapp3.1\HexaArchitecture.DomainApi.csproj.CoreCompileInputs.cache
+C:\Users\cgibella\source\repos\HexaArchitecture\HexaArchitecture\HexaArchitecture.DomainApi\obj\Debug\netcoreapp3.1\HexaArchitecture.DomainApi.dll
+C:\Users\cgibella\source\repos\HexaArchitecture\HexaArchitecture\HexaArchitecture.DomainApi\obj\Debug\netcoreapp3.1\HexaArchitecture.DomainApi.pdb
+C:\Users\cgibella\source\repos\HexaArchitecture\HexaArchitecture\HexaArchitecture.DomainApi\obj\Debug\netcoreapp3.1\HexaArchitecture.DomainApi.csproj.AssemblyReference.cache

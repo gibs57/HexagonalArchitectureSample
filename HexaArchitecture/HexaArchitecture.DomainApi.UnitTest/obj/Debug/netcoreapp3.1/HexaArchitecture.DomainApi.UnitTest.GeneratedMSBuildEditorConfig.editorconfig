@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = HexaArchitecture.DomainApi.UnitTest
+build_property.ProjectDir = C:\PROJETS\HexagonalArchitectureSample\HexaArchitecture\HexaArchitecture.DomainApi.UnitTest\
